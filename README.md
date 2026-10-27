@@ -80,11 +80,8 @@ You should understand the topics below before going any further
     * [Phil's Lab - Intro to KiCad 9 (Part 1/2)](https://www.youtube.com/watch?v=O-zNn5k5Bn4) (Video Series)
     * [Phil's Lab - Intro to KiCad 9 (Part  2/2)](https://www.youtube.com/watch?v=igQWdVGZGpI) (Video Series)
 
-### After The Basics
-This is the part where u actually get to learn about fun stuff!
-Because this list of resources is quite literally massive, the After The Basics section can be found [here](resources/beginner/after-the-basics.md).
-
-The after the basics section covers the following topics:
+### After The Basics - [Click Here]((resources/beginner/after-the-basics.md))
+This is the part where u actually get to learn about fun stuff! Click the title to access these resources. Below is a list of topics that this section includes.
 
 **Theory and Concepts**
 
