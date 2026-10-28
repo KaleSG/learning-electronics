@@ -1,4 +1,7 @@
-# **Theory & Electronic Basics**
+<img src="../../assets/icons/personal-logo/black_on_white.svg" height="150" alt="Alt text">
+
+[<-- Go Back To Start](../../README.md)
+# KaleSG / after-the-basics
 
 ## **Electrical Theory Basics**
 
@@ -83,6 +86,12 @@
 * [Introduction to Electric Motors](https://www.digikey.com/en/maker/tutorials/2025/introduction-to-electric-motors)
 
 ## **Intro to Communication Protocols**
+
+* [Communication Protocols : Basics and Types with Functionality](https://www.elprocus.com/communication-protocols/) 
+
+* [An Advanced Guide to Communication Protocols in Microcontrollers \| OPAL-RT](https://www.opal-rt.com/blog/an-advanced-guide-to-communication-protocols-in-microcontrollers/)	
+
+* [OSI model \- Wikipedia](https://en.wikipedia.org/wiki/OSI_model) 
 
 SPI Protocol
 
