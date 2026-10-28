@@ -3,7 +3,7 @@
 [<-- Go Back To Start](../../README.md)
 # KaleSG / after-the-basics
 
-## Table of Content
+## Table of Contents
 **Theory and Concepts**
 
 * [Electrical Theory Basics (With additional guiding resources)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#electrical-theory-basics)
