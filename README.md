@@ -5,6 +5,13 @@ Welcome to my learning electronics repository! This is a collection of my hand-p
 
 ## Quick Access To My Favorite Learning Resources
 
+### Resource Sections
+* Beginner Resources
+* [Power Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
+* [Analog Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
+* [Embedded Systems](https://github.com/KaleSG/learning-electronics/tree/main#embedded-systems)
+* [Failure Mitigation](https://github.com/KaleSG/learning-electronics/tree/main#failure-mitigation)
+
 ### Sites
 * [ElectronicsTutorials.ws](https://www.electronics-tutorials.ws/) - Pretty much everything about electronics. Great place no matter what you're wanting to learn. Best for both theory and practical knowledge.
 * [AllAboutCircuits.com](https://www.allaboutcircuits.com/textbook/) - Very detailed learning resources on electrical theory. Also includes forum resources for anyone interested in talking to more EE people.
@@ -118,6 +125,7 @@ This reference is by far from entirely comprehensive, however, it is a great pla
 ### [Analog Systems](/resources/intermediate/analog-systems.md)
 * Signal/Power Filtering & Amplification
 * RF & Wireless Systems
+* PCB Design & Parasitics
 ### [Embedded Systems](/resources/intermediate/embedded-systems.md)
 * Microcontrollers
 * Digital Architecture
