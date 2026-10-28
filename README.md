@@ -12,20 +12,20 @@ Welcome to my learning electronics repository! This is a collection of my hand-p
 * [Embedded Systems](https://github.com/KaleSG/learning-electronics/tree/main#embedded-systems)
 * [Failure Mitigation](https://github.com/KaleSG/learning-electronics/tree/main#failure-mitigation)
 
-### Sites
+### Educational Sites
 * [ElectronicsTutorials.ws](https://www.electronics-tutorials.ws/) - Pretty much everything about electronics. Great place no matter what you're wanting to learn. Best for both theory and practical knowledge.
 
 * [AllAboutCircuits.com](https://www.allaboutcircuits.com/textbook/) - Very detailed learning resources on electrical theory. Also includes forum resources for anyone interested in talking to more EE people.
+
+### Communities
+- [STEM Network Electrical Engineering Discord](https://discord.gg/quFjpsaVvh) - A very friendly, lively community of electrical engineers. Great place to share projects, ideas, questions, concerns, no matter your skill level.
+- [r/ElectricalEngineering](https://www.reddit.com/r/ElectricalEngineering/) - Public Reddit Forum full of projects, Q&A, and so much more. 
 
 * [electronics.stackexchange.com](electronics.stackexchange.com) - The EE world's equivalent to stack overflow. One of the best places to get real advice about designs from real engineers.
 
 * [EEVblog Forum](https://www.eevblog.com/forum/) - Forum of one of the longest running engineer channels on YouTube. Engineers like to hang out here, help out new people, and just post cool stuff. (People also post 1-time project job posts, looking for ee people to get a simple design task done for them. Might be a good place to make a quick buck as an EE major or side-gig)
 
  A lot of EE knowledge is NOT consolidated into one place like software is. EE knowledge is typically scattered among random forum posts from people with years of experienced, which is why it is probably exponentially harder for people to flock to it like computer science. It isn't inherently harder, its just less publicly documented. You'll need to learn to dig through these to really learn what's out there.
-
-### Communities
-- [STEM Network Electrical Engineering Discord](https://discord.gg/quFjpsaVvh) - A very friendly, lively community of electrical engineers. Great place to share projects, ideas, questions, concerns, no matter your skill level.
-- [r/ElectricalEngineering](https://www.reddit.com/r/ElectricalEngineering/) - Public Reddit Forum full of projects, Q&A, and so much more. 
 
 ## Why does this repository exist?
 This project originally started off as something I made internally for members on the satellite avionics team on the **Stanford Space Initiative** (SSI) at Stanford University as the Satellite Avionics Co-Lead at the time. The biggest gripe I had about first joining the team is that nobody would help me learn how to get started in electronic design and I was expected to figure it out on my own with no access to resources at all. 
