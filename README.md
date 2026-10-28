@@ -21,7 +21,7 @@ Welcome to the learning electronics repository! This is a collection of my hand-
 - [STEM Network Electrical Engineering Discord](https://discord.gg/quFjpsaVvh) - A very friendly, lively community of electrical engineers. Great place to share projects, ideas, questions, concerns, no matter your skill level.
 - [r/ElectricalEngineering](https://www.reddit.com/r/ElectricalEngineering/) - Public Reddit Forum full of projects, Q&A, and so much more. 
 
-* [electronics.stackexchange.com](electronics.stackexchange.com) - The EE world's equivalent to stack overflow. One of the best places to get real advice about designs from real engineers.
+* [electronics.stackexchange.com](https://electronics.stackexchange.com/) - The EE world's equivalent to stack overflow. One of the best places to get real advice about designs from real engineers.
 
 * [EEVblog Forum](https://www.eevblog.com/forum/) - Forum of one of the longest running engineer channels on YouTube. Engineers like to hang out here, help out new people, and just post cool stuff. (People also post 1-time project job posts, looking for ee people to get a simple design task done for them. Might be a good place to make a quick buck as an EE major or side-gig)
 
