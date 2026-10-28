@@ -13,6 +13,7 @@
 * [Intro to Communication Protocols (SPI/I2C/UART)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-communication-protocols)
 * [Into to Solar Cells + MPPTs](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-solar-cells--mppts)
 * [Intro to Batteries](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-batteries)
+* [Intro to DC Power Regulation](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-dc-power-regulation)
 
 **Prototyping & Development**
 * [Intro to Breadboard Prototyping](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-breadboard-prototyping)
