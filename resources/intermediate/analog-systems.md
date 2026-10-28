@@ -24,9 +24,9 @@
 
 * [Physical fundamentals of the radar principle \- Radartutorial](https://www.radartutorial.eu/01.basics/en/rb04.en.html) 
 
-* [Uplink vs Downlink Engineering: Key Differences](https://satellitegroundstation.com/resources/uplink-vs-downlink-engineering-key-differences/) 
+* [Uplink vs Downlink Engineering: Key Differences](https://satellitegroundstation.com/resources/uplink-vs-downlink-engineering-key-differences/) [Satellite Specific]
 
-* [Satellite Uplink and Downlink: How Does it Work? \| Bright Ascension](https://brightascension.com/satellite-uplink-and-downlink-how-does-it-work/) 
+* [Satellite Uplink and Downlink: How Does it Work? \| Bright Ascension](https://brightascension.com/satellite-uplink-and-downlink-how-does-it-work/)  [Satellite Specific]
 
 * [What Is RF and Why Do We Use It? \| Introduction to RF Principles and Components \| Electronics Textbook](https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/rf-principles-components/what-is-rf-and-why-do-we-use-it/)  
 
