@@ -1,7 +1,7 @@
 <img src="assets/icons/personal-logo/black_on_white.svg" height="150" >
 
 # learning-electronics
-Welcome to my learning electronics repository! This is a collection of my hand-picked online resources for learning everything you can about electronics. No matter where you are on your electronics design journey, you can learn **something** about electronics here. This repository contains resources for learning just about anything in electronic design. From the basics of current and voltage, to power electronics and RF engineering, you can find just about anything here. If you can't, and you know of a better resource, please feel free to create a pull request!
+Welcome to the learning electronics repository! This is a collection of my hand-picked online resources for learning everything you can about electronics. No matter where you are on your electronics design journey, you can learn **something** about electronics here. This repository contains resources for learning just about anything in electronic design. From the basics of current and voltage, to power electronics and RF engineering, you can find just about anything here. If you can't, and you know of a better resource, please feel free to create a pull request!
 
 ## Quick Access To My Favorite Learning Resources
 
