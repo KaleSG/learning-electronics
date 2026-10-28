@@ -14,7 +14,14 @@ Welcome to my learning electronics repository! This is a collection of my hand-p
 
 ### Sites
 * [ElectronicsTutorials.ws](https://www.electronics-tutorials.ws/) - Pretty much everything about electronics. Great place no matter what you're wanting to learn. Best for both theory and practical knowledge.
+
 * [AllAboutCircuits.com](https://www.allaboutcircuits.com/textbook/) - Very detailed learning resources on electrical theory. Also includes forum resources for anyone interested in talking to more EE people.
+
+* [electronics.stackexchange.com](electronics.stackexchange.com) - The EE world's equivalent to stack overflow. One of the best places to get real advice about designs from real engineers.
+
+* [EEVblog Forum](https://www.eevblog.com/forum/) - Forum of one of the longest running engineer channels on YouTube. Engineers like to hang out here, help out new people, and just post cool stuff. (People also post 1-time project job posts, looking for ee people to get a simple design task done for them. Might be a good place to make a quick buck as an EE major or side-gig)
+
+ A lot of EE knowledge is NOT consolidated into one place like software is. EE knowledge is typically scattered among random forum posts from people with years of experienced, which is why it is probably exponentially harder for people to flock to it like computer science. It isn't inherently harder, its just less publicly documented. You'll need to learn to dig through these to really learn what's out there.
 
 ### Communities
 - [STEM Network Electrical Engineering Discord](https://discord.gg/quFjpsaVvh) - A very friendly, lively community of electrical engineers. Great place to share projects, ideas, questions, concerns, no matter your skill level.
@@ -25,7 +32,7 @@ This project originally started off as something I made internally for members o
 
 As one of the new satellite avionics leads, I didn't want new members to feel the same way I felt. Like I was stuck behind and everyone somehow knew more than me, and that I was incapable of catching up. So I made an internal repository of resources, which you can see in the [source-documents/](source-documents/) folder. When I had sent it out, people outside of SSI were actually the first ones to reach out about it, not realizing how helpful it actually was.
 
-I am very passionate about education and the accessibility of learning everything and anything one might want to learn. This is my attempt to offer up a resource that anyone can take advantage of. Maybe one day, electrical engineering won't seem so daunting. hopefully.
+I am very passionate about education and the accessibility of learning everything and anything one might want to learn. The world's knowledge of the EE discipline is too scattered. This is my attempt to consolidate it. Maybe one day, electrical engineering won't seem so obscured. hopefully.
 
 ## Getting Started / Navigating this repository 
 This repository is divided up into two major categories:
@@ -89,7 +96,7 @@ You should understand the topics below before going any further
     * [Phil's Lab - Intro to KiCad 9 (Part  2/2)](https://www.youtube.com/watch?v=igQWdVGZGpI) (Video Series)
 
 ### After The Basics - [Click Here](resources/beginner/after-the-basics.mdw)
-This is the part where u actually get to learn about fun stuff! Click the title to access these resources. Below is a list of topics that this section includes.
+This is the part where you actually get to learn about fun stuff! Click the title to access these resources. Below is a list of topics that this section includes.
 
 **Theory and Concepts**
 

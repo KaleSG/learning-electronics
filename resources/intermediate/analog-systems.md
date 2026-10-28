@@ -14,6 +14,8 @@
 
 * [Operational Amplifier Basics \- Op-amp Tutorial](https://www.electronics-tutorials.ws/opamp/opamp_1.html) 
 
+* [MPS - Galvanic Isolation (Important for Ground/Noise Isolation)](https://www.monolithicpower.com/en/learning/mpscholar/isolation-solutions/intro-to-digital-isolation/of-isolation-techniques)
+
 ## **RF & Wireless Systems** 
 
 * [Antenna The32ory](https://antenna-theory.com/) 
@@ -22,15 +24,17 @@
 
   * [List of Antennas (Antenna Types)](https://www.antenna-theory.com/antennas/main.php) 
 
+* [What Is RF and Why Do We Use It? \| Introduction to RF Principles and Components \| Electronics Textbook](https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/rf-principles-components/what-is-rf-and-why-do-we-use-it/)  
+
+* [Microwaves101 \| Basic Concepts](https://www.microwaves101.com/encyclopedias/basic-concepts) 
+
 * [Physical fundamentals of the radar principle \- Radartutorial](https://www.radartutorial.eu/01.basics/en/rb04.en.html) 
 
 * [Uplink vs Downlink Engineering: Key Differences](https://satellitegroundstation.com/resources/uplink-vs-downlink-engineering-key-differences/) [Satellite Specific]
 
 * [Satellite Uplink and Downlink: How Does it Work? \| Bright Ascension](https://brightascension.com/satellite-uplink-and-downlink-how-does-it-work/)  [Satellite Specific]
 
-* [What Is RF and Why Do We Use It? \| Introduction to RF Principles and Components \| Electronics Textbook](https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/rf-principles-components/what-is-rf-and-why-do-we-use-it/)  
 
-* [Microwaves101 \| Basic Concepts](https://www.microwaves101.com/encyclopedias/basic-concepts) 
 
 ## **PCB Design & Parasitics**
 
@@ -43,8 +47,6 @@
 * [High-Speed PCB Design Guide](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/High-Speed%20PCB%20Design%20Guide.pdf) 
 
 * [Parasitics in Precision PCB Layouts](https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/14/Parasitics-in-Precision-PCB-Layouts_5F00_Feb2013.pdf) 
-
-* [Guide to Signal Conditioning \| Fluke](https://www.fluke.com/en-us/learn/blog/calibration/signal-conditioning-ensures-measurement-accuracy#types-anchor) 
 
 * [Principles of Power Integrity for PDN Design—Simplified](https://crash-database.readthedocs.io/en/latest/Reference-for-Engineering/Principles%20of%20power%20integrity%20for%20PDN%20design%20--%20simplified%20robust%20and%20cost%20effective%20design%20for%20high%20speed%20digital%20products.pdf) 
 

@@ -3,6 +3,7 @@
 [<-- Go Back To Start](../../README.md)
 
 # **Power Systems** 
+**Golden Ticket Resource**: [Monolithic Power Systems](https://www.monolithicpower.com/en/learning/mpscholar/power-electronics) - Possibly one of the best resources for learning power electronics. period. (i'm not an expert don't come at me pls. i just like their stuff.)
 
 ## **DC-DC Converters** 
 
@@ -13,6 +14,9 @@
 * [Introduction to DC/DC Converters](https://www.monolithicpower.com/en/learning/mpscholar/power-electronics/dc-dc-converters/introduction-to-dc-dc-converters) 
 
 * [Lecture 5: Intro to DC/DC, Part 1 \| Power Electronics \| Electrical Engineering and Computer Science \| MIT OpenCourseWare](https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/resources/mit6_622s23_lecture_05_mp4/) 
+
+## Power Isolation
+* [MPS - Basics of Isolation](https://www.monolithicpower.com/en/learning/mpscholar/isolation-solutions/intro-to-digital-isolation/of-isolation-techniques)
 
 ## **Solar Power Generation** 
 
@@ -31,6 +35,7 @@
 * [An Introduction to Batteries: Components, Parameters, Types, and Chargers](https://media.monolithicpower.com/mps_cms_document/a/n/an-introduction-to-batteries-comp-para-and-chargers_r1.0.pdf)
 
 * [An Introduction to Batteries: Components, Parameters, Types, and Chargers \| Article \| MPS](https://www.monolithicpower.com/learning/resources/an-introduction-to-batteries-components-parameters-types-and-chargers)  
+
 
 ## **Distribution/Transmission**
 
