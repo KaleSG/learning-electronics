@@ -1,4 +1,4 @@
-<img src="assets/icons/personal-logo/black_on_white.svg" height="150" alt="Alt text">
+<img src="assets/icons/personal-logo/black_on_white.svg" height="150" >
 
 # learning-electronics
 Welcome to my learning electronics repository! This is a collection of my hand-picked online resources for learning everything you can about electronics. No matter where you are on your electronics design journey, you can learn **something** about electronics here. This repository contains resources for learning just about anything in electronic design. From the basics of current and voltage, to power electronics and RF engineering, you can find just about anything here. If you can't, and you know of a better resource, please feel free to create a pull request!
@@ -6,7 +6,7 @@ Welcome to my learning electronics repository! This is a collection of my hand-p
 ## Quick Access To My Favorite Learning Resources
 
 ### Resource Sections
-* Beginner Resources
+* [Beginner Resources](https://github.com/KaleSG/learning-electronics/tree/main#failure-mitigation)
 * [Power Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
 * [Analog Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
 * [Embedded Systems](https://github.com/KaleSG/learning-electronics/tree/main#embedded-systems)
@@ -70,13 +70,14 @@ You should understand the topics below before going any further
 
     * **Diodes** ([Video Guide](https://www.youtube.com/watch?v=Fwj_d3uO5g8) / [Text Guide](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-3/introduction-to-diodes-and-rectifiers/))
 
-    * **Reading Electrical Schematics** (Video Guide / [Text Guide](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all))
-
+  
     * **MOSFETs** ([Video Guide](https://www.youtube.com/watch?v=AwRJsze_9m4) / [Text Guide](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-2/insulated-gate-field-effect-transistors-mosfet/))
 
     * **Metal-Oxide-Semiconductor Field-Effect Transistors**
 
     * **BJTs** ([Video Guide](https://www.youtube.com/watch?v=J4oO7PT_nzQ) / [Text Guide](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-4/bipolar-junction-transistors-bjt/))
+
+* **Reading Electrical Schematics** (Video Guide / [Text Guide](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all))
 
 * **Reading Datasheets**
     * [How-To: Read and Understand Technical Datasheets](https://www.digikey.com/en/maker/tutorials/2024/how-to-read-and-understand-technical-datasheets)
