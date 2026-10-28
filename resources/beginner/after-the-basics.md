@@ -3,8 +3,27 @@
 [<-- Go Back To Start](../../README.md)
 # KaleSG / after-the-basics
 
-## **Electrical Theory Basics**
+## Table of Content
+**Theory and Concepts**
 
+* Electrical Theory Basics (With additional guiding resources)
+* Intro to Microcontrollers/Single Board Computers
+* Intro to Sensors
+* Intro to Actuators (Only Motors, incomplete)
+* Intro to Communication Protocols (SPI/I2C/UART)
+* Into to Solar Cells + MPPTs
+* Intro to Batteries
+
+**Prototyping & Development**
+* Intro to Breadboard Prototyping
+* Intro to Debugging/Testing/Instrumentation Tools
+* Intro to Permanent Prototyping (Soldering, Perfboard, Connector Basics)
+* Intro to reading datasheets (repeated)
+* Intro to PCB design & Fabrication
+* Intro to PCB Schematic & Design Simulation
+
+
+## **Electrical Theory Basics**
 * [What Are Electric Circuits? \| Basic Concepts Of Electricity \| Electronics Textbook](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/electric-circuits/)
 
 * [Voltage and Current \| Basic Concepts Of Electricity \| Electronics Textbook](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/voltage-current/) 

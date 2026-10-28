@@ -6,7 +6,7 @@ Welcome to the learning electronics repository! This is a collection of my hand-
 ## Quick Access To My Favorite Learning Resources
 
 ### Resource Sections
-* [Beginner Resources](resources/beginner/after-the-basics.md)
+* [Beginner Resources](https://github.com/KaleSG/learning-electronics/tree/main#beginner-learning-resources)
 * [Power Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
 * [Analog Systems](https://github.com/KaleSG/learning-electronics/tree/main#power-systems)
 * [Embedded Systems](https://github.com/KaleSG/learning-electronics/tree/main#embedded-systems)
