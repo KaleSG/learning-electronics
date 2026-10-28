@@ -6,21 +6,21 @@
 ## Table of Content
 **Theory and Concepts**
 
-* Electrical Theory Basics (With additional guiding resources)
-* Intro to Microcontrollers/Single Board Computers
-* Intro to Sensors
-* Intro to Actuators (Only Motors, incomplete)
-* Intro to Communication Protocols (SPI/I2C/UART)
-* Into to Solar Cells + MPPTs
-* Intro to Batteries
+* [Electrical Theory Basics (With additional guiding resources)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#electrical-theory-basics)
+* [Intro to Microcontrollers/Single Board Computers](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-microcontrollers-mcusingle-board-computers-sbcs)
+* [Intro to Sensors](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-sensors)
+* [Intro to Actuators (Only Motors, incomplete)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-actuators)
+* [Intro to Communication Protocols (SPI/I2C/UART)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-communication-protocols)
+* [Into to Solar Cells + MPPTs](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-solar-cells--mppts)
+* [Intro to Batteries](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-batteries)
 
 **Prototyping & Development**
-* Intro to Breadboard Prototyping
-* Intro to Debugging/Testing/Instrumentation Tools
-* Intro to Permanent Prototyping (Soldering, Perfboard, Connector Basics)
-* Intro to reading datasheets (repeated)
-* Intro to PCB design & Fabrication
-* Intro to PCB Schematic & Design Simulation
+* [Intro to Breadboard Prototyping](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-breadboard-prototyping)
+* [Intro to Debugging/Testing/Instrumentation Tools](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-debugging--testing-electronic-designs-instrumentation)
+* [Intro to Permanent Prototyping (Soldering, Perfboard, Connector Basics)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-permanent-prototyping)
+* [Intro to reading datasheets (repeated)](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-datasheets)
+* [Intro to PCB design & Fabrication](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#intro-to-pcb-design--fabrication)
+* [Intro to PCB Schematic & Design Simulation](https://github.com/KaleSG/learning-electronics/blob/main/resources/beginner/after-the-basics.md#into-to-pcb-schematic--design-simulation)
 
 
 ## **Electrical Theory Basics**
@@ -124,7 +124,13 @@ UART Protocol
 
 * [Understanding UART \| Rohde & Schwarz](https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/rs-essentials-digital-oscilloscopes/understanding-uart_254524.html)
 
-## *Intro to Solar Cells \+ MPPTs*
+## **Intro to Batteries**
+
+* [What is a Battery? \- SparkFun Learn](https://learn.sparkfun.com/tutorials/what-is-a-battery/) 
+
+* [Introduction to Battery Management Systems \- Technical Articles](https://www.allaboutcircuits.com/technical-articles/introduction-to-battery-management-systems/) 
+
+## Intro to Solar Cells \+ MPPTs
 
 * [Maximum power point tracking \- Wikipedia](https://en.wikipedia.org/wiki/Maximum_power_point_tracking) 
 
@@ -134,11 +140,6 @@ UART Protocol
 
 * [Implementing a Simple Maximum Power Point Tracking (MPPT) Algorithm](https://www.ti.com/lit/an/sluaai1/sluaai1.pdf?ts=1791106084846) 
 
-## **Intro to Batteries**
-
-* [What is a Battery? \- SparkFun Learn](https://learn.sparkfun.com/tutorials/what-is-a-battery/) 
-
-* [Introduction to Battery Management Systems \- Technical Articles](https://www.allaboutcircuits.com/technical-articles/introduction-to-battery-management-systems/) 
 
 ## **Intro to DC Power Regulation**
 
