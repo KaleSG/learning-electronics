@@ -20,7 +20,6 @@ Welcome to the learning electronics repository! This is a collection of my hand-
 * [AllAboutCircuits.com](https://www.allaboutcircuits.com/textbook/) - Very detailed learning resources on electrical theory. Also includes forum resources for anyone interested in talking to more EE people.
 
 ### Communities
-- [STEM Network Electrical Engineering Discord](https://discord.gg/quFjpsaVvh) - A very friendly, lively community of electrical engineers. Great place to share projects, ideas, questions, concerns, no matter your skill level.
 - [r/ElectricalEngineering](https://www.reddit.com/r/ElectricalEngineering/) - Public Reddit Forum full of projects, Q&A, and so much more. 
 
 * [electronics.stackexchange.com](https://electronics.stackexchange.com/) - The EE world's equivalent to stack overflow. One of the best places to get real advice about designs from real engineers.
