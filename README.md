@@ -161,3 +161,27 @@ This reference is by far from entirely comprehensive, however, it is a great pla
 
 - Radiation Tolerance / Hardening
 - Shock & Vibration Resistant Design
+
+# If you're looking to contribute...
+
+Electronics knowledge is so spread out across the internet and it's impossible to find every great resource myself. Because of that, I want to give an open invitation to hobbyist, students, academics, and industry professional engineers to help contribute to this project.
+
+However, I do have a few requisites and rules on what kinds of resources will be accepted by this repository
+
+## Requirements on Text Resources
+
+1. Resources on Electrical Theory + Mathematical Equation Applications must include the following:
+   - Full explanations of where mathematical equations came from (If not immediately obvious; i.e Capacitor/Inductor Equations)
+   - Diagrams of the concept being explained, optimally using a circuit diagram.
+   - Full explantions of diagrams and their topologies.
+     - i.e must explain the purpose of every component on the schematic, and not leave anything up to "just because thats how its done".
+     - Some articles, of course, do require some background knowledge on some other systems. For example, you need to understand PWM before learning about buck converters. If you want to include a resource about buck converters, you must also include a resource on PWM, prior to submitting a resource on buck converters. Ideally, your markdown on your pull request will have your links formatted as follows:
+       - [Buck Converter Link] - This should be a hyperlink to the site with the article name as the text
+         - Prerequisites:
+           - [Resource on PWM]
+           - [Resource on LC filters] - (inherently necessary because of the filtering nature of a buck)
+2. Resource on Practical Guides
+   - Practical guides must include sublinks to the theory necessary to understand them. I.E, if you submit an article on using a specific CAN transceiver IC, you must also sublink resources to prerequisite understanding on communication systems such as: The OSI model, The CAN protocol (Phys/Dig layer).
+3. Resources must fall within a certain "Broad
+
+## Requirements on Video Resources
