@@ -182,6 +182,10 @@ However, I do have a few requisites and rules on what kinds of resources will be
            - [Resource on LC filters] - (inherently necessary because of the filtering nature of a buck)
 2. Resource on Practical Guides
    - Practical guides must include sublinks to the theory necessary to understand them. I.E, if you submit an article on using a specific CAN transceiver IC, you must also sublink resources to prerequisite understanding on communication systems such as: The OSI model, The CAN protocol (Phys/Dig layer).
-3. Resources must fall within a certain "Broad
+3. Resources must fall within a certain broad category. i.e Embedded, Power, Analog. If your resources don't fit any of these, you can propose another category.
 
 ## Requirements on Video Resources
+
+- This repository is dedicated to mostly written resources, as I am in the personal belief that video resources are only somewhat helpful for actually learning electronics.
+- Videos a part of a series must have the entire playlist linked and must not be incomplete.
+- Videos must include derivations and formalized application if based on theoretical concepts. Users should not just have equations thrown at them without meaning.
